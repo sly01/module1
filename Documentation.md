@@ -6,7 +6,6 @@
 | dns\_zone\_creation | Create dns zone or use existing | string | n/a | yes |
 | domain\_name | domain name end with tk | string | n/a | yes |
 | env | Environment dev,prod,nonprod whatever.... | string | n/a | yes |
-| instance\_count | Number of instances | string | n/a | yes |
 | instance\_size | Flavor t2.micro, t2.small | string | n/a | yes |
 | max\_size | max size for asg | string | n/a | yes |
 | min\_size | min size for asg | string | n/a | yes |

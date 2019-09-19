@@ -17,10 +17,6 @@ variable "env" {
   description = "Environment dev,prod,nonprod whatever...."
 }
 
-variable "instance_count" {
-  description = "Number of instances"
-}
-
 variable "max_size" {
   description = "max size for asg"
 }
